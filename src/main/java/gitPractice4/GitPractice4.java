@@ -7,7 +7,11 @@ public class GitPractice4 {
 		System.out.println(sum(6,7));
 		System.out.println(multi(4,2));
 		System.out.println(sub(6,3));
+		
+		System.out.println("namastey");
+		System.out.println("hello");
 	}
+	
 	
 	public static int sum(int a,int b) {
 		return a+b;
